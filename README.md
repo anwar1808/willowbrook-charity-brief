@@ -7,11 +7,11 @@ A strategic note offered as a gift to the Willowbrook Charity, exploring how it 
 ## What's in it
 
 - **Frame** — Yunus social-business posture: *mission first, surplus by design*
-- **Three horizons** — 10 specific actions across 6 / 18 / 36 month windows
-- **Comparators** — six precedents (3 UK, 3 US) that prove the model has worked
+- **3 horizons** — 10 specific actions across 6 / 18 / 36 month windows
+- **Comparators** — 6 precedents (3 UK, 3 US) that prove the model has worked
 - **Corporate engagement deep-dive** — the single largest growth lever, with the Oxford-cluster scale-up case
-- **Revenue projection** — Conservative / Base / Stretch scenarios across 3 years, with five income streams clearly defined
-- **Technology layer** — five modest investments that compound each horizon
+- **Revenue projection** — Conservative / Base / Stretch scenarios across 3 years, with 5 income streams clearly defined
+- **Technology layer** — 5 modest investments that compound each horizon
 - **Closing** — the rarity argument
 
 ## Visual notes
