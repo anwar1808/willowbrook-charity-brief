@@ -428,6 +428,16 @@ ul.discipline-list li::before {
   margin: 12px 0 0;
 }
 
+p.footnote {
+  font-size: 14px;
+  font-style: italic;
+  color: var(--stone-soft);
+  margin: 10px 0 0 !important;
+}
+p.footnote sup {
+  color: var(--terracotta);
+}
+
 /* ----- Comparators ----- */
 .comparators-grid {
   max-width: var(--max-content);
